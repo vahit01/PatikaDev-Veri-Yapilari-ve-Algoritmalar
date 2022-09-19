@@ -13,5 +13,5 @@
 ***
 2. Big-O Notation
 ```
-O(nlogn)asd
+O(nlogn)
 ```
